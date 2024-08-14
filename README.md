@@ -13,7 +13,17 @@ You're the
 th __visitor__! 
 
 <!--Status-->
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuXYIO&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuXYIO&theme=github-compact)](https://github.com/SuXYIO/github-readme-activity-graph)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuXYIO&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+
+<!--Langs & Tools-->
+__Productivity langs__:
+[![Langs](https://skillicons.dev/icons?i=c,py,md,lua,bash&theme=dark)](https://skillicons.dev)  
+__Productivity tools__:
+[![Tools](https://skillicons.dev/icons?i=neovim,git,github,bash,bots&theme=dark)](https://skillicons.dev)  
+
+__Learning langs__:
+[![Langs](https://skillicons.dev/icons?i=rust,mysql,latex&theme=dark)](https://skillicons.dev)  
+__Learning tools__:
+[![Langs](https://skillicons.dev/icons?i=linux,kali&theme=dark)](https://skillicons.dev)  
 
 </center>
