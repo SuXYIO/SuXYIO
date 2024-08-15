@@ -17,13 +17,13 @@ th __visitor__!
 
 <!--Langs & Tools-->
 __Productivity langs__:
-[![Langs](https://skillicons.dev/icons?i=c,py,md,lua,bash&theme=dark)](https://skillicons.dev)  
+[![Langs](https://skillicons.dev/icons?i=c,py,md,lua&theme=dark)](https://skillicons.dev)  
 __Productivity tools__:
 [![Tools](https://skillicons.dev/icons?i=neovim,git,github,bash,bots&theme=dark)](https://skillicons.dev)  
 
 __Learning langs__:
-[![Langs](https://skillicons.dev/icons?i=rust,mysql,latex&theme=dark)](https://skillicons.dev)  
+[![Langs](https://skillicons.dev/icons?i=rust,js,latex&theme=dark)](https://skillicons.dev)  
 __Learning tools__:
-[![Langs](https://skillicons.dev/icons?i=linux,kali&theme=dark)](https://skillicons.dev)  
+[![Langs](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)  
 
 </center>
