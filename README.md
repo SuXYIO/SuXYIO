@@ -1,8 +1,7 @@
 <!--Self intro-->
 ### Hi there! This is __SuXYIO__. 
-- A __Chinese student__ :cn:
+- A student from __China__ :cn:
 - A programming __nooby__ :computer:
-- I :heart: __NeoVim__
 
 <!--Visitor count-->
 <center>
