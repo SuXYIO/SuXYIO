@@ -1,8 +1,8 @@
 <!--Self intro-->
-# Hi there! This is __SuXYIO__. 
+# Hi there! This is **SuXYIO**. 
 
 - A **student** from **China** :cn:
-- A programming **NOOBY** :computer:
+- A programming **Newbie** :computer:
 
 <!--Visitor count-->
 You're the
