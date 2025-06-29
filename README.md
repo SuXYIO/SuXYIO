@@ -18,14 +18,14 @@ And yeah, my projects are mostly **useless**
 ## My Skills
 <!--Langs & Tools-->
 ### :fire:Productivity langs
-[![Langs](https://skillicons.dev/icons?i=py,c,lua&theme=dark)](https://skillicons.dev)  
+![Langs](https://skillicons.dev/icons?i=py,c,lua&theme=dark)
 ### :toolbox:Productivity tools
-[![Tools](https://skillicons.dev/icons?i=neovim,git,github,bash,md&theme=dark)](https://skillicons.dev)  
+![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,linux,stackoverflow&theme=dark) 
 
 ### :school:Learning langs
-[![Langs](https://skillicons.dev/icons?i=js,rust,godot&theme=dark)](https://skillicons.dev)  
+![Langs](https://skillicons.dev/icons?i=pytorch&theme=dark), nasm  
 ### :wrench:Learning tools
-[![Langs](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)  
+Nah, nothing for now.  
 
 ## And the important stuff :laughing:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
