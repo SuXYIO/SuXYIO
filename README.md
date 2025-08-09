@@ -7,7 +7,7 @@
 <!--Visitor count-->
 You're the
 ![VisitorCount](https://count.getloli.com/get/@:SuXYIO?theme=rule34)
-th **visitor**! 
+th **visitor**!  
 
 ## My Stats
 <!--Status-->
@@ -18,14 +18,14 @@ And yeah, my projects are mostly **useless**
 ## My Skills
 <!--Langs & Tools-->
 ### :fire:Productivity langs
-![Langs](https://skillicons.dev/icons?i=py,c,lua&theme=dark)
+![Langs](https://skillicons.dev/icons?i=py,c&theme=dark)
 ### :toolbox:Productivity tools
-![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,linux,stackoverflow&theme=dark) 
+![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,debian&theme=dark) 
 
-### :school:Learning langs
-![Langs](https://skillicons.dev/icons?i=pytorch&theme=dark), nasm  
-### :wrench:Learning tools
+### :school:<del>Learning</del> Trying to learn langs
+![Langs](https://skillicons.dev/icons?i=go,rust&theme=dark)  
+### :wrench:<del>Learning</del> Trying to learn tools
 Nah, nothing for now.  
 
-## And the important stuff :laughing:
+## And of course the most important stuff
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
