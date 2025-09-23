@@ -22,10 +22,12 @@ And yeah, my projects are mostly **useless**
 ### :toolbox:Productivity tools
 ![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,debian&theme=dark) 
 
-### :school:<del>Learning</del> Trying to learn langs
-![Langs](https://skillicons.dev/icons?i=go,rust&theme=dark)  
-### :wrench:<del>Learning</del> Trying to learn tools
-Nah, nothing for now.  
+### :school:Learning langs
+![Langs](https://skillicons.dev/icons?i=arduino&theme=dark)  
+### :wrench:Learning tools
+![Langs](https://skillicons.dev/icons?i=latex,windows&theme=dark)  
 
 ## And of course the most important stuff
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
+> Note: I just came up with my name myself, I have no connection with "suxy.io" whatever that is
