@@ -23,7 +23,7 @@ And yeah, my projects are mostly **useless**
 ![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,debian&theme=dark) 
 
 ### :school:Learning langs
-![Langs](https://skillicons.dev/icons?i=arduino&theme=dark)  
+![Langs](https://skillicons.dev/icons?i=go,arduino&theme=dark)  
 ### :wrench:Learning tools
 ![Langs](https://skillicons.dev/icons?i=latex,windows&theme=dark)  
 
