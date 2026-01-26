@@ -1,8 +1,15 @@
 <!--Self intro-->
 # Hi! This is **SuXYIO** (_SueXY_ for short).
 
+Yes, I love programming and all. No, I'm not good at it.
+
+## Who
+
 - A **student** from **China** :cn:
 - A programming **Noob** but **lover** :computer:
+
+<!--Personal site-->
+Find **me** and my **social accounts** at [SuXYIO's Site](https://suxyio.github.io)
 
 <!--Visitor count-->
 You're the
