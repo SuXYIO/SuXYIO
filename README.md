@@ -30,4 +30,4 @@ And yeah, my projects are mostly **useless**
 ## And of course the most important stuff
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 
-> Note: I just came up with my name myself, I have no connection with "suxy.io" whatever that is
+> Note: I came up with my name myself, I'm not related to _"suxy.io"_ or whatever that is. Not wealthy enough to get my own domain.
