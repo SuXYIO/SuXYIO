@@ -20,6 +20,7 @@ th **visitor**!
 <!--Status-->
 ![SuXYIO's Status](https://github-readme-stats.vercel.app/api?username=SuXYIO&show_icons=true&theme=transparent&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuXYIO&theme=transparent&layout=compact)  
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=30130&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)  
 And yeah, my projects are mostly **useless**
 
 ## My Skills
