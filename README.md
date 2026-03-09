@@ -1,4 +1,3 @@
-<!--Self intro-->
 # Hi! This is **SuXYIO** (_SueXY_ for short).
 
 Yes, I love programming and all. No, I'm not good at it.
@@ -8,34 +7,40 @@ Yes, I love programming and all. No, I'm not good at it.
 - A **student** from **China** :cn:
 - A programming **Noob** but **lover** :computer:
 
-<!--Personal site-->
 Find **me** and my **social accounts** at [SuXYIO's Site](https://suxyio.github.io)
 
-<!--Visitor count-->
 You're the
 ![VisitorCount](https://count.getloli.com/get/@:SuXYIO?theme=rule34)
-th **visitor**!  
+th **visitor**!
 
 ## My Stats
-<!--Status-->
-![SuXYIO's Status](https://github-readme-stats.vercel.app/api?username=SuXYIO&show_icons=true&theme=transparent&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuXYIO&theme=transparent&layout=compact)  
-![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=30130&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)  
-And yeah, my projects are mostly **useless**
+
+![SuXYIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuXYIO&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuXYIO&theme=transparent&layout=compact)
+
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=30130&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ## My Skills
-<!--Langs & Tools-->
+
 ### :fire:Productivity langs
+
 ![Langs](https://skillicons.dev/icons?i=py,c&theme=dark)
+
 ### :toolbox:Productivity tools
-![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,debian&theme=dark) 
+
+![Tools](https://skillicons.dev/icons?i=neovim,git,bash,md,debian&theme=dark)
 
 ### :school:Learning langs
-![Langs](https://skillicons.dev/icons?i=go,arduino&theme=dark)  
+
+![Langs](https://skillicons.dev/icons?i=go,arduino&theme=dark)
+
 ### :wrench:Learning tools
-![Langs](https://skillicons.dev/icons?i=latex,windows&theme=dark)  
 
-## And of course the most important stuff
+![Langs](https://skillicons.dev/icons?i=latex,windows&theme=dark)
+
+> Note: I came up with my name myself, I'm not related to website _suxy.io_ or whatever that is. Not really wealthy enough to get my own domain.
+
+## And of course the important stuff
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
-
-> Note: I came up with my name myself, I'm not related to _"suxy.io"_ or whatever that is. Not wealthy enough to get my own domain.
